@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\denis\source\repos\Project1\customArray.h(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\denis\source\repos\Project1\customArray.h(221,26): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\denis\source\repos\Project1\customArray.h(223,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\denis\source\repos\Project1\customArray.h(515,17): warning C4244: =: преобразование "__int64" в "size_t", возможна потеря данных
+C:\Users\denis\source\repos\Project1\customArray.h(540,17): warning C4244: =: преобразование "__int64" в "size_t", возможна потеря данных
+  Project1.vcxproj -> C:\Users\denis\source\repos\Project1\Debug\Project1.exe
